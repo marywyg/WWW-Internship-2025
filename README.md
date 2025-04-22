@@ -1,2 +1,2 @@
 # WWW-Internship-2025
-Code from workshops/projects from my 2025 web internship. 
+Code from workshops/projects made during my 2025 web internship. 
